@@ -32,7 +32,9 @@
 </template>
 
 <script>
+// コメント
 export default {
+
   data () {
     return {
       
