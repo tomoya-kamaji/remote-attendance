@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>カレンダーアプリ</h1>
+    <h1>カレンダー</h1>
   </div>
 </template>
 
