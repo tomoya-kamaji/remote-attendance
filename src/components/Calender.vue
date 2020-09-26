@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>カレンダー</h1>
+    <h1>出勤管理</h1>
   </div>
 </template>
 
