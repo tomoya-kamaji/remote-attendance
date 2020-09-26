@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>出勤管理</h1>
+    <h1>出勤管理アプリ</h1>
   </div>
 </template>
 
